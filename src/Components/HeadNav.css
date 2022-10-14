@@ -1,0 +1,20 @@
+.threepic {
+     padding-top: 10vh;
+     /* height: 50vh; */
+}
+
+.p-dis{
+    display: none;
+}
+.i1 .i2{
+    position: fixed;
+}
+
+img{
+    vertical-align: super;
+}
+
+/* 
+.img1 {
+    width: 50%;
+} */

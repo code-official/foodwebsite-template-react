@@ -1,0 +1,29 @@
+// const [loading, setLoading] = userState(false);
+//   const override = css`
+//   display:block;
+//   border-color:red;
+//   margin-top:20%;
+//   `;
+
+//   useEffect(() => {
+//     setLoading(true)
+//     setTimeout(() => {
+//       setLoading(false)
+//     }, 5000);
+//   }, [])
+
+
+
+//   {
+//     loading ? <CircleLoader color={"#3d2514"} Loading={loading} css={override} size={40} />
+//     :
+//     <>
+//     <navbar/>
+//     </>
+//   }
+
+
+
+  // import { css } from "@emotion/core";
+// import { CircleLoader } from 'react-spinners';
+// import './spinner.css';
