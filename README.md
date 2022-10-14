@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+TO RUN THE PROJECT CLONE THE PROJECT AND DOWNLOAD THE NODE-MODULES USING NPM 
+THEN START THE PROJECT BY npm start
+
+# Project Link to check it out
+
+https://quantamitinnovationburger.netlify.app/
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
